@@ -1,0 +1,1 @@
+\\ifw.uni-hannover.de\daten\B5-Daten\05-Mitarbeiter\Doreth\10-Softwareentwicklung\Demonstrator\TaktzeitMonitor\bin\Debug\TaktzeitMonitor.exe.config
